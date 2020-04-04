@@ -1,0 +1,501 @@
+Symbol,Company Name,Security Type,Security Price,Market Capitalization,Revenue (TTM),Sector,Industry,Sub-Industry,Company Headquarters Location
+BRK/A,Berkshire Hathaway Inc,Common Stock,267954,--,327223,Financials,Diversified Financial Services,Multi-Sector Holdings,United States of America
+BRK/B,Berkshire Hathaway Inc,Common Stock,178.34,$438.08B,327223,Financials,Diversified Financial Services,Multi-Sector Holdings,United States of America
+AMZN,Amazon.com Inc,Common Stock,1906.59,$955.58B,280522,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,United States of America
+AAPL,Apple Inc,Common Stock,241.41,$1.07T,267683,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",United States of America
+CVS,CVS Health Corp,Common Stock,55.72,$72.14B,256776,Health Care,Health Care Providers & Services,Health Care Services,United States of America
+XOM,Exxon Mobil Corp,Common Stock,39.21,$171.05B,255583,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,United States of America
+UNH,Unitedhealth Group Inc,Common Stock,229.49,$227.94B,242155,Health Care,Health Care Providers & Services,Managed Health Care,United States of America
+MCK,McKesson Corp,Common Stock,125.49,$22.86B,224945,Health Care,Health Care Providers & Services,Health Care Distributors,United States of America
+ABC,AmerisourceBergen Corp,Common Stock,81.34,$17.26B,182061.411,Health Care,Health Care Providers & Services,Health Care Distributors,United States of America
+T,AT&T Inc,Common Stock,27.46,$208.64B,181265,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,United States of America
+GOOGL,Alphabet Inc,Common Stock,1092.69,$768.89B,161857,Communication Services,Interactive Media & Services,Interactive Media & Services,United States of America
+GOOG,Alphabet Inc,Common Stock,1097.88,$771.51B,161857,Communication Services,Interactive Media & Services,Interactive Media & Services,United States of America
+COST,Costco Wholesale Corp,Common Stock,288.65,$128.72B,158350,Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers,United States of America
+F,Ford Motor Co,Common Stock,4.24,$17.29B,155900,Consumer Discretionary,Automobiles,Automobile Manufacturers,United States of America
+CI,Cigna Corp,Common Stock,163.84,$62.89B,153699,Health Care,Health Care Providers & Services,Health Care Services,United States of America
+CAH,Cardinal Health Inc,Common Stock,46.61,$13.55B,149657,Health Care,Health Care Providers & Services,Health Care Distributors,United States of America
+JPM,JPMorgan Chase & Co,Common Stock,84.05,$269.88B,142422,Financials,Banks,Diversified Banks,United States of America
+CVX,Chevron Corp,Common Stock,75.11,$143.27B,139865,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,United States of America
+WBA,Walgreens Boots Alliance Inc,Common Stock,40.72,$35.81B,138705,Consumer Staples,Food & Staples Retailing,Drug Retail,United States of America
+GM,General Motors Co,Common Stock,18.04,$25.47B,137237,Consumer Discretionary,Automobiles,Automobile Manufacturers,United States of America
+MSFT,Microsoft Corp,Common Stock,153.83,$1.18T,134249,Information Technology,Software,Systems Software,United States of America
+VZ,Verizon Communications Inc,Common Stock,54.7,$228.50B,131868,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,United States of America
+MPC,Marathon Petroleum Corp,Common Stock,20.06,$13.77B,123949,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,United States of America
+FNMA,Federal National Mortgage Association,Common Stock,1.4,$8.41B,122518,Financials,Thrifts & Mortgage Finance,Thrifts & Mortgage Finance,United States of America
+KR,Kroger Co. (The),Common Stock,32.29,$24.90B,122286,Consumer Staples,Food & Staples Retailing,Food Retail,United States of America
+BAC,Bank of America Corp,Common Stock,20.03,$181.76B,113589,Financials,Banks,Diversified Banks,United States of America
+HD,Home Depot Inc. (The),Common Stock,178.7,$195.27B,110225,Consumer Discretionary,Specialty Retail,Home Improvement Retail,United States of America
+CMCSA,Comcast Corp,Common Stock,33.95,$156.49B,108942,Communication Services,Media,Cable & Satellite,United States of America
+PSX,Phillips 66,Common Stock,51.62,$22.81B,107293,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,United States of America
+ANTM,Anthem Inc,Common Stock,203.3,$53.47B,104213,Health Care,Health Care Providers & Services,Managed Health Care,United States of America
+C,Citigroup Inc,Common Stock,37.49,$82.94B,103449,Financials,Banks,Diversified Banks,United States of America
+VLO,Valero Energy Corp,Common Stock,40.34,$16.99B,102729,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,United States of America
+WFC,Wells Fargo & Co,Common Stock,26.23,$112.54B,102453,Financials,Banks,Diversified Banks,United States of America
+GE,General Electric Co,Common Stock,6.73,$60.30B,95214,Industrials,Industrial Conglomerates,Industrial Conglomerates,United States of America
+DELL,Dell Technologies Inc,Common Stock,36.44,$27.08B,92154,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",United States of America
+BA,Boeing Co,Common Stock,124.52,$69.39B,84818,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+JNJ,Johnson & Johnson,Common Stock,134.17,$350.52B,82059,Health Care,Pharmaceuticals,Pharmaceuticals,United States of America
+TGT,Target Corp,Common Stock,92.57,$47.58B,78112,Consumer Discretionary,Multiline Retail,General Merchandise Stores,United States of America
+IBM,International Business Machines Corp,Common Stock,106.34,$97.58B,77147,Information Technology,IT Services,IT Consulting & Other Services,United States of America
+UTX,United Technologies Corp,Common Stock,86.01,$74.34B,77046,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+DIS,Walt Disney Co (The),Common Stock,93.88,$173.19B,75125,Communication Services,Entertainment,Movies & Entertainment,United States of America
+FMCC,Freddie Mac,Common Stock,1.29,$4.23B,74924,Financials,Thrifts & Mortgage Finance,Thrifts & Mortgage Finance,United States of America
+CNC,Centene Corp,Common Stock,54.6,$23.39B,74639,Health Care,Health Care Providers & Services,Managed Health Care,United States of America
+UPS,United Parcel Service Inc,Common Stock,90,$79.70B,74094,Industrials,Air Freight & Logistics,Air Freight & Logistics,United States of America
+LOW,Lowe's Cos Inc,Common Stock,82.2,$63.22B,72148,Consumer Discretionary,Specialty Retail,Home Improvement Retail,United States of America
+INTC,Intel Corp,Common Stock,54.13,$233.16B,71965,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,United States of America
+FB,Facebook Inc,Common Stock,154.18,$451.16B,70697,Communication Services,Interactive Media & Services,Interactive Media & Services,United States of America
+MET,Metlife Inc.,Common Stock,27.72,$25.68B,69744,Financials,Insurance,Life & Health Insurance,United States of America
+FDX,FedEx Corp.,Common Stock,109.22,$30.47B,69666,Industrials,Air Freight & Logistics,Air Freight & Logistics,United States of America
+PG,Procter & Gamble Co (The),Common Stock,115.08,$282.51B,69594,Consumer Staples,Household Products,Household Products,United States of America
+PEP,PepsiCo Inc,Common Stock,124.59,$172.29B,67161,Consumer Staples,Beverages,Soft Drinks,United States of America
+HUM,Humana Inc.,Common Stock,291.63,$39.65B,64888,Health Care,Health Care Providers & Services,Managed Health Care,United States of America
+PRU,Prudential Financial Inc,Common Stock,46.09,$18.60B,64845,Financials,Insurance,Life & Health Insurance,United States of America
+ADM,Archer-Daniels-Midland Co,Common Stock,34.65,$19.12B,64656,Consumer Staples,Food Products,Agricultural Products,United States of America
+SYY,Sysco Corporation,Common Stock,39.5,$21.01B,60460.983,Consumer Staples,Food & Staples Retailing,Food Distributors,United States of America
+LMT,Lockheed Martin Corp,Common Stock,350.5,$99.11B,59812,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+HPQ,HP Inc,Common Stock,14.48,$22.20B,58664,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",United States of America
+ET,Energy Transfer LP,Unit Trust Fund,5.47,$14.04B,54213,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+GS,Goldman Sachs Group Inc (The),Common Stock,146.93,$54.24B,53922,Financials,Capital Markets,Investment Banking & Brokerage,United States of America
+MS,Morgan Stanley,Common Stock,33.85,$54.04B,53823,Financials,Capital Markets,Investment Banking & Brokerage,United States of America
+CAT,Caterpillar Inc,Common Stock,114.67,$64.22B,53800,Industrials,Machinery,Construction Machinery & Heavy Trucks,United States of America
+PFE,Pfizer Inc,Common Stock,33.64,$181.90B,51750,Health Care,Pharmaceuticals,Pharmaceuticals,United States of America
+CSCO,Cisco Systems Inc,Common Stock,39.06,$168.79B,51550,Information Technology,Communications Equipment,Communications Equipment,United States of America
+HCA,HCA Healthcare Inc,Common Stock,81.83,$28.40B,51336,Health Care,Health Care Providers & Services,Health Care Facilities,United States of America
+AIG,American International Group Inc,Common Stock,20.46,$18.49B,49310,Financials,Insurance,Multi-line Insurance,United States of America
+AXP,American Express Co,Common Stock,73.6,$62.09B,47020,Financials,Consumer Finance,Consumer Finance,United States of America
+DAL,Delta Air Lines Inc,Common Stock,22.48,$14.58B,47007,Industrials,Airlines,Airlines,United States of America
+MRK,Merck & Co Inc.,Common Stock,76.25,$195.17B,46840,Health Care,Pharmaceuticals,Pharmaceuticals,United States of America
+AAL,American Airlines Group Inc,Common Stock,9.39,$4.31B,45768,Industrials,Airlines,Airlines,United States of America
+CHTR,Charter Communications Inc,Common Stock,434.06,$91.48B,45764,Communication Services,Media,Cable & Satellite,United States of America
+TMUS,T-Mobile US Inc,Common Stock,81.91,$72.33B,44998,Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,United States of America
+ALL,Allstate Corp (The),Common Stock,85.96,$27.35B,44675,Financials,Insurance,Property & Casualty Insurance,United States of America
+BBY,Best Buy Co Inc,Common Stock,53.48,$13.53B,43638,Consumer Discretionary,Specialty Retail,Computer & Electronics Retail,United States of America
+UAL,United Airlines Holdings Inc,Common Stock,22.885,$5.88B,43259,Industrials,Airlines,Airlines,United States of America
+TSN,Tyson Foods Inc.,Common Stock,53.82,$19.76B,43027,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+DOW,Dow Inc,Common Stock,27.97,$20.78B,42951,Materials,Chemicals,Commodity Chemicals,United States of America
+TJX,TJX Companies Inc (The),Common Stock,40.96,$52.51B,41716.977,Consumer Discretionary,Specialty Retail,Apparel Retail,United States of America
+NKE,Nike Inc,Common Stock,78.86,$124.94B,41274,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",Footwear,United States of America
+BG,Bunge Ltd,Common Stock,37.17,$5.54B,41140,Consumer Staples,Food Products,Agricultural Products,United States of America
+ORCL,Oracle Corp,Common Stock,49.4,$157.42B,39766,Information Technology,Software,Systems Software,United States of America
+GD,General Dynamics Corp,Common Stock,125.68,$37.05B,39350,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+PGR,Progressive Corp (The),Common Stock,75.94,$44.76B,38997.7,Financials,Insurance,Property & Casualty Insurance,United States of America
+DE,Deere & Co,Common Stock,135.52,$43.71B,38905.4,Industrials,Machinery,Agricultural & Farm Machinery,United States of America
+INTL,INTL FCStone Inc,Common Stock,33.34,$667.38M,37589.8,Financials,Capital Markets,Investment Banking & Brokerage,United States of America
+KO,Coca-Cola Co (The),Common Stock,43.83,$188.11B,37266,Consumer Staples,Beverages,Soft Drinks,United States of America
+TECD,Tech Data Corp,Common Stock,132.78,$4.66B,36998.421,Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,United States of America
+INT,World Fuel Services Corp,Common Stock,22.58,$1.46B,36819,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,United States of America
+HON,Honeywell International Inc,Common Stock,127.45,$94.44B,36709,Industrials,Industrial Conglomerates,Industrial Conglomerates,United States of America
+LYB,LyondellBasell Industries NV,Common Stock,46.1,$15.31B,34727,Materials,Chemicals,Commodity Chemicals,United States of America
+EXC,Exelon Corp,Common Stock,32.75,$33.73B,34438,Utilities,Electric Utilities,Electric Utilities,United States of America
+COF,Capital One Financial Corp.,Common Stock,42.27,$20.06B,33907,Financials,Consumer Finance,Consumer Finance,United States of America
+NOC,Northrop Grumman Corp,Common Stock,313.61,$52.75B,33841,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+PAA,Plains All American Pipeline LP,Unit Trust Fund,5.19,$3.79B,33669,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+PAGP,Plains GP Holdings LP,Common Stock,5.67,$1.00B,33669,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+ABBV,AbbVie Inc,Common Stock,73.37,$111.11B,33266,Health Care,Biotechnology,Biotechnology,United States of America
+SLB,Schlumberger Ltd,Common Stock,14.29,$19.22B,32917,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,United States of America
+EPD,Enterprise Products Partners LP,Unit Trust Fund,14.43,$31.55B,32789.2,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+COP,Conocophillips,Common Stock,32.91,$36.73B,32567,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,United States of America
+MMM,3M Co,Common Stock,133.79,$79.32B,32136,Industrials,Industrial Conglomerates,Industrial Conglomerates,United States of America
+ABT,Abbott Laboratories,Common Stock,79.45,$140.01B,31904,Health Care,Health Care Equipment & Supplies,Health Care Equipment,United States of America
+TRV,Travelers Companies Inc (The),Common Stock,93.89,$24.83B,31581,Financials,Insurance,Property & Casualty Insurance,United States of America
+PM,Philip Morris International Inc,Common Stock,73.46,$115.67B,29805,Consumer Staples,Tobacco,Tobacco,United States of America
+RTN,Raytheon Co.,Common Stock,116.96,$32.56B,29176,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+ARW,Arrow Electronics Inc,Common Stock,50.68,$4.12B,28916.847,Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,United States of America
+HPE,Hewlett Packard Enterprise Co,Common Stock,9.3,$12.13B,28531,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",United States of America
+VIAC,ViacomCBS Inc,Common Stock,12.42,$7.85B,27812,Communication Services,Media,Broadcasting,United States of America
+VIACA,ViacomCBS Inc,Common Stock,16.16,$10.37B,27812,Communication Services,Media,Broadcasting,United States of America
+DG,Dollar General Corporation,Common Stock,162.2,$40.23B,27753.973,Consumer Discretionary,Multiline Retail,General Merchandise Stores,United States of America
+USB,U.S. Bancorp,Common Stock,31.19,$50.12B,27325,Financials,Banks,Diversified Banks,United States of America
+SBUX,Starbucks Corp,Common Stock,63.05,$76.34B,26973,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,United States of America
+JBL,Jabil Inc,Common Stock,22.39,$3.46B,26339.836,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,United States of America
+BMY,Bristol-Myers Squibb Co,Common Stock,55.53,$124.28B,26145,Health Care,Pharmaceuticals,Pharmaceuticals,United States of America
+USFD,US Foods Holding Corp,Common Stock,14.06,$3.33B,25939,Consumer Staples,Food & Staples Retailing,Food Distributors,United States of America
+MDLZ,Mondelez International Inc,Common Stock,50.79,$72.30B,25868,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+PCAR,PACCAR Inc,Common Stock,61.58,$21.08B,25599.7,Industrials,Machinery,Construction Machinery & Heavy Trucks,United States of America
+TMO,Thermo Fisher Scientific Inc,Common Stock,282.21,$114.66B,25542,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,United States of America
+M,Macy's Inc,Common Stock,4.81,$1.38B,25331,Consumer Discretionary,Multiline Retail,Department Stores,United States of America
+DUK,Duke Energy Corp,Common Stock,76.02,$58.19B,25079,Utilities,Electric Utilities,Electric Utilities,United States of America
+KHC,The Kraft Heinz Co,Common Stock,25.32,$30.09B,24977,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+TSLA,Tesla Inc,Common Stock,480.01,$82.26B,24578,Consumer Discretionary,Automobiles,Automobile Manufacturers,United States of America
+UNFI,United Natural Foods Inc,Common Stock,9.29,$474.54M,24526.895,Consumer Staples,Food & Staples Retailing,Food Distributors,United States of America
+PBF,PBF Energy Inc,Common Stock,5.76,$705.65M,24508.2,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,United States of America
+CBRE,CBRE Group Inc,Common Stock,35.5,$12.28B,23894.091,Real Estate,Real Estate Management & Development,Real Estate Services,United States of America
+BKR,Baker Hughes a GE Co,Common Stock,10.4,$6.73B,23838,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,United States of America
+SNX,SYNNEX Corp,Common Stock,67.63,$3.69B,23772.037,Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,United States of America
+DLTR,Dollar Tree Inc,Common Stock,70.24,$16.68B,23610.8,Consumer Discretionary,Multiline Retail,General Merchandise Stores,United States of America
+CMI,Cummins Inc.,Common Stock,132.27,$19.98B,23571,Industrials,Machinery,Construction Machinery & Heavy Trucks,United States of America
+V,Visa Inc,Common Stock,151.85,$338.55B,23525,Information Technology,IT Services,Data Processing & Outsourced Services,United States of America
+AMGN,Amgen Inc,Common Stock,205.41,$123.53B,23362,Health Care,Biotechnology,Biotechnology,United States of America
+PAG,Penske Automotive Group Inc,Common Stock,23.03,$1.99B,23179.4,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+PFGC,Performance Food Group Co,Common Stock,21.72,$2.40B,22899.7,Consumer Staples,Food & Staples Retailing,Food Distributors,United States of America
+LEN,Lennar Corp,Common Stock,33.39,$10.56B,22896.816,Consumer Discretionary,Household Durables,Homebuilding,United States of America
+LEN/B,Lennar Corp,Common Stock,25,$7.97B,22896.816,Consumer Discretionary,Household Durables,Homebuilding,United States of America
+AVGO,Broadcom Inc,Common Stock,234.26,$94.59B,22666,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,United States of America
+NUE,Nucor Corp,Common Stock,35.65,$10.85B,22588.858,Materials,Metals & Mining,Steel,United States of America
+GILD,Gilead Sciences Inc,Common Stock,78.21,$97.46B,22449,Health Care,Biotechnology,Biotechnology,United States of America
+LUV,Southwest Airlines Co.,Common Stock,30.54,$16.35B,22428,Industrials,Airlines,Airlines,United States of America
+HAL,Halliburton Co,Common Stock,7.61,$6.60B,22408,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,United States of America
+CTL,CenturyLink Inc,Common Stock,9.11,$9.59B,22401,Communication Services,Diversified Telecommunication Services,Alternative Carriers,United States of America
+IP,International Paper Co,Common Stock,29.37,$11.95B,22376,Materials,Containers & Packaging,Paper Packaging,United States of America
+AFL,AFLAC Inc,Common Stock,32.41,$23.13B,22369,Financials,Insurance,Life & Health Insurance,United States of America
+LLY,Eli Lilly and Co,Common Stock,139.66,$129.03B,22319.5,Health Care,Pharmaceuticals,Pharmaceuticals,United States of America
+UNP,Union Pacific Corp,Common Stock,138.57,$98.14B,21708,Industrials,Road & Rail,Railroads,United States of America
+PNC,The PNC Financial Services Group Inc,Common Stock,85.19,$39.29B,21624,Financials,Banks,Regional Banks,United States of America
+RAD,Rite Aid Corp.,Common Stock,11.45,$664.38M,21580.796,Consumer Staples,Food & Staples Retailing,Drug Retail,United States of America
+DD,DuPont  De Nemours Inc,Common Stock,31.87,$24.01B,21512,Materials,Chemicals,Specialty Chemicals,United States of America
+KMX,CarMax Inc,Common Stock,48.6,$8.19B,21424.117,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+SO,Southern Co (The),Common Stock,50.27,$55.18B,21419,Utilities,Electric Utilities,Electric Utilities,United States of America
+SOLN,Southern Co (The),Unit Trust Fund,43.23,$47.09B,21419,Utilities,Electric Utilities,Electric Utilities,United States of America
+AN,AutoNation Inc,Common Stock,24.59,$2.25B,21335.7,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+MCD,McDonald's Corp,Common Stock,160.33,$120.53B,21076.5,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,United States of America
+MAR,Marriott International Inc,Common Stock,59.08,$20.41B,20972,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",United States of America
+CCL,Carnival Corporation & Plc,Common Stock,8.49,$5.45B,20952,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",United States of America
+CUK,Carnival Corporation & Plc,Depository Receipt,7.93,$5.13B,20952,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",United States of America
+MAN,ManpowerGroup Inc,Common Stock,55.36,$3.26B,20863.5,Industrials,Professional Services,Human Resource & Employment Services,United States of America
+HIG,Hartford Financial Services Group Inc. (The),Common Stock,32.15,$11.96B,20480,Financials,Insurance,Multi-line Insurance,United States of America
+WHR,Whirlpool Corp,Common Stock,82.64,$5.13B,20419,Consumer Discretionary,Household Durables,Household Appliances,United States of America
+OXY,Occidental Petroleum Corp,Common Stock,13,$11.42B,20393,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,United States of America
+NFLX,Netflix Inc,Common Stock,361.76,$162.39B,20156.447,Communication Services,Entertainment,Movies & Entertainment,United States of America
+DXC,DXC Technology Co,Common Stock,11.67,$3.17B,20042,Information Technology,IT Services,IT Consulting & Other Services,United States of America
+BK,Bank of New York Mellon Corp (The),Common Stock,33.75,$30.30B,20007,Financials,Capital Markets,Asset Management & Custody Banks,United States of America
+KSS,Kohl's Corp,Common Stock,11.51,$1.83B,19974,Consumer Discretionary,Multiline Retail,Department Stores,United States of America
+LEA,Lear Corp,Common Stock,72.58,$4.36B,19810.3,Consumer Discretionary,Auto Components,Auto Parts & Equipment,United States of America
+MO,Altria Group Inc,Common Stock,37.41,$67.30B,19796,Consumer Staples,Tobacco,Tobacco,United States of America
+QCOM,QUALCOMM Inc.,Common Stock,65.23,$77.75B,19785,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,United States of America
+MU,Micron Technology Inc.,Common Stock,41.22,$45.69B,19599,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,United States of America
+SYF,Synchrony Financial,Common Stock,13.25,$8.81B,19461,Financials,Consumer Finance,Consumer Finance,United States of America
+GPC,Genuine Parts Co,Common Stock,58.26,$8.93B,19392.305,Consumer Discretionary,Distributors,Distributors,United States of America
+NEE,NextEra Energy Inc,Common Stock,221.64,$110.73B,19204,Utilities,Electric Utilities,Electric Utilities,United States of America
+NEE/PP,NextEra Energy Inc,Unit Trust Fund,40.67,$20.40B,19204,Utilities,Electric Utilities,Electric Utilities,United States of America
+AVT,Avnet Inc,Common Stock,24.92,$2.52B,18544.547,Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,United States of America
+THC,Tenet Healthcare Corp,Common Stock,11.89,$1.37B,18479,Health Care,Health Care Providers & Services,Health Care Facilities,United States of America
+KMB,Kimberly-Clark Corp,Common Stock,129.92,$44.14B,18450,Consumer Staples,Household Products,Household Products,United States of America
+WRK,WestRock Company,Common Stock,25.68,$6.92B,18385.3,Materials,Containers & Packaging,Paper Packaging,United States of America
+EMR,Emerson Electric Co.,Common Stock,45.72,$29.19B,18376,Industrials,Electrical Equipment,Electrical Components & Equipment,United States of America
+ACM,AECOM,Common Stock,26.19,$4.36B,18371.444,Industrials,Construction & Engineering,Construction & Engineering,United States of America
+DHI,D.R. Horton Inc.,Common Stock,32.14,$11.94B,18113.8,Consumer Discretionary,Household Durables,Homebuilding,United States of America
+CDW,CDW Corp,Common Stock,86.89,$12.58B,18032.4,Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,United States of America
+JLL,Jones Lang LaSalle Inc,Common Stock,86.45,$4.75B,17983.2,Real Estate,Real Estate Management & Development,Real Estate Services,United States of America
+DHR,Danaher Corp,Common Stock,135.15,$94.89B,17911.1,Health Care,Health Care Equipment & Supplies,Health Care Equipment,United States of America
+SHW,Sherwin-Williams Co (The),Common Stock,420.03,$40.26B,17900.8,Materials,Chemicals,Specialty Chemicals,United States of America
+PYPL,PayPal Holdings Inc,Common Stock,92.39,$109.70B,17772,Information Technology,IT Services,Data Processing & Outsourced Services,United States of America
+HFC,HollyFrontier Corp,Common Stock,22.38,$3.71B,17486.578,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,United States of America
+TEN,Tenneco Inc,Common Stock,2.32,$238.74M,17450,Consumer Discretionary,Auto Components,Auto Parts & Equipment,United States of America
+BDX,Becton Dickinson and Co,Common Stock,226.73,$63.26B,17355,Health Care,Health Care Equipment & Supplies,Health Care Equipment,United States of America
+BDXA,Becton Dickinson and Co,Depository Receipt,53.85,$15.08B,17355,Health Care,Health Care Equipment & Supplies,Health Care Equipment,United States of America
+LNC,Lincoln National Corp,Common Stock,23.46,$4.63B,17236,Financials,Insurance,Life & Health Insurance,United States of America
+PCG,PG&E Corp,Common Stock,7.93,$4.38B,17129,Utilities,Electric Utilities,Electric Utilities,United States of America
+EOG,EOG Resources Inc.,Common Stock,39.89,$22.29B,17122.002,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,United States of America
+CRM,salesforce.com Inc,Common Stock,134.31,$119.95B,17098,Information Technology,Software,Application Software,United States of America
+MA,Mastercard Inc,Common Stock,237.03,$240.55B,16883,Information Technology,IT Services,Data Processing & Outsourced Services,United States of America
+MOH,Molina Healthcare Inc.,Common Stock,132.13,$8.28B,16829,Health Care,Health Care Providers & Services,Managed Health Care,United States of America
+CTSH,Cognizant Technology Solutions Corp,Common Stock,43.4,$24.27B,16783,Information Technology,IT Services,IT Consulting & Other Services,United States of America
+GIS,General Mills Inc.,Common Stock,56.71,$33.25B,16765.3,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+MMC,Marsh & McLennan Companies Inc,Common Stock,79.9,$41.68B,16653,Financials,Insurance,Insurance Brokers,United States of America
+XPO,XPO Logistics Inc,Common Stock,44.29,$4.33B,16648,Industrials,Air Freight & Logistics,Air Freight & Logistics,United States of America
+SUN,Sunoco LP,Unit Trust Fund,14.72,$1.23B,16596,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,United States of America
+D,Dominion Energy Inc,Common Stock,69.55,$59.55B,16572,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+DCUE,Dominion Energy Inc,Unit Trust Fund,90.48,$76.92B,16572,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+GPS,Gap Inc,Common Stock,5.65,$2.04B,16383,Consumer Discretionary,Specialty Retail,Apparel Retail,United States of America
+PFG,Principal Financial Group Inc.,Common Stock,26.41,$7.36B,16222.1,Financials,Insurance,Life & Health Insurance,United States of America
+ARMK,Aramark,Common Stock,17,$4.49B,16215.589,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,United States of America
+ROST,Ross Stores Inc,Common Stock,74.75,$28.53B,16039.073,Consumer Discretionary,Specialty Retail,Apparel Retail,United States of America
+EL,Estee Lauder Cos Inc (The),Common Stock,154.08,$53.63B,15856,Consumer Staples,Personal Products,Personal Products,United States of America
+CL,Colgate-Palmolive Co,Common Stock,67.62,$58.27B,15693,Consumer Staples,Household Products,Household Products,United States of America
+WDC,Western Digital Corp,Common Stock,38.21,$11.48B,15582,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",United States of America
+AEP,American Electric Power Co Inc,Common Stock,72.5,$37.95B,15561.4,Utilities,Electric Utilities,Electric Utilities,United States of America
+JWN,Nordstrom Inc.,Common Stock,13.05,$2.05B,15524,Consumer Discretionary,Multiline Retail,Department Stores,United States of America
+WM,Waste Management Inc.,Common Stock,89.02,$38.67B,15455,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,United States of America
+FLR,Fluor Corp,Common Stock,5.98,$869.08M,15423.278,Industrials,Construction & Engineering,Construction & Engineering,United States of America
+CHRW,C.H. Robinson Worldwide Inc.,Common Stock,68.15,$9.30B,15309.508,Industrials,Air Freight & Logistics,Air Freight & Logistics,United States of America
+PPG,PPG Industries Inc.,Common Stock,80.43,$19.03B,15146,Materials,Chemicals,Specialty Chemicals,United States of America
+BKNG,Booking Holdings Inc,Common Stock,1231.81,$52.19B,15066,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,United States of America
+AMAT,Applied Materials Inc.,Common Stock,42.28,$39.74B,15017,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,United States of America
+OMC,Omnicom Group Inc.,Common Stock,49.59,$11.31B,14953.7,Communication Services,Media,Advertising,United States of America
+ECL,Ecolab Inc.,Common Stock,147.26,$43.88B,14906.3,Materials,Chemicals,Specialty Chemicals,United States of America
+SYK,Stryker Corp,Common Stock,148.07,$56.02B,14884,Health Care,Health Care Equipment & Supplies,Health Care Equipment,United States of America
+GT,Goodyear Tire & Rubber Co,Common Stock,5.39,$1.34B,14745,Consumer Discretionary,Auto Components,Tires & Rubber,United States of America
+L,Loews Corp,Common Stock,32.7,$9.65B,14701,Financials,Insurance,Property & Casualty Insurance,United States of America
+TFC,Truist Financial Corp,Common Stock,27.21,$38.22B,14682,Financials,Banks,Regional Banks,United States of America
+FCX,Freeport-McMoRan Inc,Common Stock,6.32,$9.27B,14568,Materials,Metals & Mining,Copper,United States of America
+BLK,Blackrock Inc,Common Stock,418.07,$66.20B,14539,Financials,Capital Markets,Asset Management & Custody Banks,United States of America
+ADP,Automatic Data Processing Inc.,Common Stock,128.57,$56.80B,14472.7,Information Technology,IT Services,Data Processing & Outsourced Services,United States of America
+SWK,Stanley Black & Decker Inc,Common Stock,95.27,$14.69B,14442.2,Industrials,Machinery,Industrial Machinery,United States of America
+SWT,Stanley Black & Decker Inc,Unit Trust Fund,66.81,$10.17B,14442.2,Industrials,Machinery,Industrial Machinery,United States of America
+TXN,Texas Instruments Inc,Common Stock,99.93,$95.09B,14383,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,United States of America
+BIIB,Biogen Inc,Common Stock,300.51,$53.04B,14377.9,Health Care,Biotechnology,Biotechnology,United States of America
+RGA,Reinsurance Group of America Inc.,Common Stock,78.49,$5.11B,14300,Financials,Insurance,Reinsurance,United States of America
+PH,Parker-Hannifin Corp,Common Stock,115.81,$15.25B,14201.47,Industrials,Machinery,Industrial Machinery,United States of America
+HWM,Howmet Aerospace Inc,Common Stock,12.54,$5.41B,14192,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+UBER,Uber Technologies Inc,Common Stock,22.82,$40.65B,14147,Industrials,Road & Rail,Trucking,United States of America
+ITW,Illinois Tool Works Inc.,Common Stock,140.41,$45.28B,14109,Industrials,Machinery,Industrial Machinery,United States of America
+DFS,Discover Financial Services,Common Stock,28.53,$9.61B,13989,Financials,Consumer Finance,Consumer Finance,United States of America
+CTVA,Corteva Inc,Common Stock,22.62,$16.65B,13846,Materials,Chemicals,Fertilizers & Agricultural Chemicals,United States of America
+LVS,Las Vegas Sands Corp,Common Stock,37.92,$30.75B,13739,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,United States of America
+TXT,Textron Inc,Common Stock,24.85,$5.58B,13630,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+K,Kellogg Co,Common Stock,63.58,$20.94B,13578,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+QRTEB,Qurate Retail Inc,Common Stock,5.5001,$2.44B,13458,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,United States of America
+QRTEA,Qurate Retail Inc,Common Stock,5.45,$2.41B,13458,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,United States of America
+CORE,Core Mark Holding Co Inc,Common Stock,25.99,$1.21B,13329.2,Consumer Discretionary,Distributors,Distributors,United States of America
+CYH,Community Health Systems Inc,Common Stock,2.82,$366.43M,13210,Health Care,Health Care Providers & Services,Health Care Facilities,United States of America
+KMI,Kinder Morgan Inc.,Common Stock,13.41,$30.46B,13209,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+BJ,BJ's Wholesale Club Holdings Inc,Common Stock,26,$3.62B,13190.707,Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers,United States of America
+STT,State Street Corporation,Common Stock,52.16,$18.73B,13131,Financials,Capital Markets,Asset Management & Custody Banks,United States of America
+GLP,Global Partners LP,Unit Trust Fund,8.4,$286.85M,13081.73,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+J,Jacobs Engineering Group Inc.,Common Stock,78.97,$10.80B,13014.129,Industrials,Construction & Engineering,Construction & Engineering,United States of America
+X,United States Steel Corp,Common Stock,5.96,$1.04B,12937,Materials,Metals & Mining,Steel,United States of America
+LB,L Brands Inc,Common Stock,11.34,$2.80B,12914.141,Consumer Discretionary,Specialty Retail,Apparel Retail,United States of America
+MGM,MGM Resorts International,Common Stock,10.58,$5.79B,12899.672,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,United States of America
+AMP,Ameriprise Financial Inc,Common Stock,90.32,$11.66B,12886,Financials,Capital Markets,Asset Management & Custody Banks,United States of America
+LHX,L3Harris Technologies Inc,Common Stock,178.5,$40.05B,12856,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+DISH,DISH Network Corp,Common Stock,18.98,$9.92B,12807.684,Communication Services,Media,Cable & Satellite,United States of America
+LAD,Lithia Motors Inc.,Common Stock,67.1,$1.63B,12672.7,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+DTE,DTE Energy Co,Common Stock,87.13,$17.14B,12669,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+DTP,DTE Energy Co,Unit Trust Fund,36.87,$7.23B,12669,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+ED,Consolidated Edison Inc.,Common Stock,77.9,$26.28B,12574,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+LKQ,LKQ Corp,Common Stock,17.35,$5.68B,12506.109,Consumer Discretionary,Distributors,Distributors,United States of America
+EIX,Edison International,Common Stock,49.36,$18.65B,12347,Utilities,Electric Utilities,Electric Utilities,United States of America
+CNP,CenterPoint Energy Inc.,Common Stock,13.44,$7.10B,12301,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+VFC,V.F. Corp,Common Stock,48.88,$19.38B,12248.21,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",United States of America
+PWR,Quanta Services Inc.,Common Stock,30.56,$4.39B,12160.953,Industrials,Construction & Engineering,Construction & Engineering,United States of America
+MUSA,Murphy USA Inc,Common Stock,84.71,$2.57B,12101.3,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+AZO,AutoZone Inc,Common Stock,790.56,$18.66B,12078.141,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+EXPE,Expedia Group Inc,Common Stock,48.71,$6.82B,12067,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,United States of America
+GPI,Group 1 Automotive Inc.,Common Stock,35.67,$707.49M,12043.8,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+UNM,Unum Group,Common Stock,13.46,$2.63B,11999.6,Financials,Insurance,Life & Health Insurance,United States of America
+CSX,CSX Corp,Common Stock,56.78,$43.98B,11937,Industrials,Road & Rail,Railroads,United States of America
+VST,Vistra Energy Corp,Common Stock,15.83,$7.79B,11809,Utilities,Independent Power and Renewable Electricity Producers,Independent Power Producers & Energy Traders,United States of America
+SCHW,Schwab (Charles) Corp,Common Stock,33.6,$44.22B,11785,Financials,Capital Markets,Investment Banking & Brokerage,United States of America
+FOX,Fox Corp,Common Stock,21.59,$13.33B,11710,Communication Services,Media,Broadcasting,United States of America
+FOXA,Fox Corp,Common Stock,22.3,$13.84B,11710,Communication Services,Media,Broadcasting,United States of America
+CCK,Crown Holdings Inc,Common Stock,52.66,$7.46B,11665,Materials,Containers & Packaging,Metal & Glass Containers,United States of America
+ADBE,Adobe Inc,Common Stock,293.61,$146.81B,11661.351,Information Technology,Software,Application Software,United States of America
+ALLY,Ally Financial Inc,Common Stock,11.98,$4.85B,11556,Financials,Consumer Finance,Consumer Finance,United States of America
+LH,Laboratory Corp of America Holdings,Common Stock,113.31,$11.28B,11554.8,Health Care,Health Care Providers & Services,Health Care Services,United States of America
+LYV,Live Nation Entertainment Inc,Common Stock,33.57,$7.26B,11547.969,Communication Services,Entertainment,Movies & Entertainment,United States of America
+XEL,Xcel Energy Inc.,Common Stock,57.86,$31.69B,11529,Utilities,Electric Utilities,Electric Utilities,United States of America
+GLW,Corning Inc,Common Stock,17.91,$14.25B,11503,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Components,United States of America
+MYL,Mylan NV,Common Stock,13.74,$7.18B,11500.5,Health Care,Pharmaceuticals,Pharmaceuticals,United States of America
+GWW,Grainger (W.W.) Inc,Common Stock,238.76,$12.87B,11486,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,United States of America
+BLL,Ball Corp,Common Stock,62.17,$20.96B,11474,Materials,Containers & Packaging,Metal & Glass Containers,United States of America
+PPC,Pilgrim's Pride Corp,Common Stock,17.61,$4.42B,11409.219,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+DVA,DaVita Inc,Common Stock,65.52,$8.85B,11388.479,Health Care,Health Care Providers & Services,Health Care Services,United States of America
+UHS,Universal Health Services Inc.,Common Stock,85.38,$7.69B,11378.259,Health Care,Health Care Providers & Services,Health Care Facilities,United States of America
+BAX,Baxter International Inc,Common Stock,81.42,$41.62B,11362,Health Care,Health Care Equipment & Supplies,Health Care Equipment,United States of America
+BBBY,Bed Bath & Beyond Inc.,Common Stock,3.94,$451.98M,11359.639,Consumer Discretionary,Specialty Retail,Homefurnishing Retail,United States of America
+NSC,Norfolk Southern Corp,Common Stock,142.32,$37.07B,11296,Industrials,Road & Rail,Railroads,United States of America
+JCP,J.C. Penney Company Inc.,Common Stock,0.2704,$95.03M,11167,Consumer Discretionary,Multiline Retail,Department Stores,United States of America
+DISCA,Discovery Inc,Common Stock,18.36,$9.90B,11144,Communication Services,Media,Broadcasting,United States of America
+DISCB,Discovery Inc,Common Stock,27.5,$14.58B,11144,Communication Services,Media,Broadcasting,United States of America
+DISCK,Discovery Inc,Common Stock,16.84,$9.05B,11144,Communication Services,Media,Broadcasting,United States of America
+KDP,Keurig Dr Pepper Inc,Common Stock,23.8,$33.57B,11120,Consumer Staples,Beverages,Soft Drinks,United States of America
+LDOS,Leidos Holdings Inc,Common Stock,87.94,$12.50B,11094,Information Technology,IT Services,IT Consulting & Other Services,United States of America
+IQV,Iqvia Holdings Inc,Common Stock,102.72,$20.15B,11088,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,United States of America
+NGL,NGL Energy Partners LP,Unit Trust Fund,2.03,$273.38M,11043.775,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+FE,FirstEnergy Corp.,Common Stock,37.95,$21.63B,11035,Utilities,Electric Utilities,Electric Utilities,United States of America
+RS,Reliance Steel & Aluminum Co,Common Stock,79.76,$5.58B,10973.8,Materials,Metals & Mining,Steel,United States of America
+RCL,Royal Caribbean Cruises Ltd,Common Stock,24.39,$5.18B,10950.661,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",United States of America
+NVDA,NVIDIA Corporation,Common Stock,243.91,$156.35B,10918,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,United States of America
+ETR,Entergy Corp.,Common Stock,83.38,$17.56B,10878.673,Utilities,Electric Utilities,Electric Utilities,United States of America
+SRE,Sempra Energy,Common Stock,104.28,$31.00B,10829,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+VMW,VMware Inc,Common Stock,116.97,$49.37B,10811,Information Technology,Software,Systems Software,United States of America
+EBAY,eBay Inc.,Common Stock,29.41,$23.24B,10800,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,United States of America
+BSX,Boston Scientific Corp,Common Stock,31.17,$43.31B,10735,Health Care,Health Care Equipment & Supplies,Health Care Equipment,United States of America
+NAV,Navistar International Corp,Common Stock,15.3,$1.65B,10656,Industrials,Machinery,Construction Machinery & Heavy Trucks,United States of America
+ODP,Office Depot Inc,Common Stock,1.62,$866.99M,10647,Consumer Discretionary,Specialty Retail,Specialty Stores,United States of America
+CNA,CNA Financial Corp,Common Stock,27.64,$7.55B,10587,Financials,Insurance,Property & Casualty Insurance,United States of America
+TAP/A,Molson Coors Beverage Co,Common Stock,44.1071,$9.54B,10579.4,Consumer Staples,Beverages,Brewers,United States of America
+TAP,Molson Coors Beverage Co,Common Stock,41.01,$8.65B,10579.4,Consumer Staples,Beverages,Brewers,United States of America
+STLD,Steel Dynamics Inc,Common Stock,20.98,$4.57B,10464.991,Materials,Metals & Mining,Steel,United States of America
+SAH,Sonic Automotive Inc.,Common Stock,11.09,$516.31M,10454.343,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+AA,Alcoa Corp,Common Stock,5.97,$1.13B,10433,Materials,Metals & Mining,Aluminum,United States of America
+CAG,Conagra Brands Inc,Common Stock,31.21,$14.58B,10379.7,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+FIS,Fidelity National Information Services Inc,Common Stock,115.22,$72.02B,10333,Information Technology,IT Services,Data Processing & Outsourced Services,United States of America
+RSG,Republic Services Inc.,Common Stock,72.53,$23.98B,10299.4,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,United States of America
+IPG,Interpublic Group of Cos Inc (The),Common Stock,13.58,$5.56B,10221.3,Communication Services,Media,Advertising,United States of America
+PHM,PulteGroup Inc,Common Stock,18.92,$5.35B,10212.957,Consumer Discretionary,Household Durables,Homebuilding,United States of America
+AES,AES Corp (The),Common Stock,12.24,$8.66B,10189,Utilities,Independent Power and Renewable Electricity Producers,Independent Power Producers & Energy Traders,United States of America
+FISV,Fiserv Inc.,Common Stock,86.19,$60.34B,10187,Information Technology,IT Services,Data Processing & Outsourced Services,United States of America
+BWA,BorgWarner Inc,Common Stock,21.29,$4.60B,10168,Consumer Discretionary,Auto Components,Auto Parts & Equipment,United States of America
+OKE,ONEOK Inc.,Common Stock,21.64,$8.94B,10164.367,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+ORLY,O'Reilly Automotive Inc,Common Stock,294.94,$22.95B,10149.985,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+AIZ,Assurant Inc.,Common Stock,98.75,$6.00B,10086.8,Financials,Insurance,Multi-line Insurance,United States of America
+PEG,Public Service Enterprise Group Inc,Common Stock,44.36,$22.82B,10076,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+HSIC,Henry Schein Inc,Common Stock,46.35,$6.94B,9985.803,Health Care,Health Care Providers & Services,Health Care Distributors,United States of America
+MHK,Mohawk Industries Inc.,Common Stock,62.01,$4.65B,9970.672,Consumer Discretionary,Household Durables,Home Furnishings,United States of America
+PVH,PVH Corp,Common Stock,30.99,$2.34B,9909,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",United States of America
+NRG,NRG Energy Inc,Common Stock,26.21,$6.92B,9821,Utilities,Electric Utilities,Electric Utilities,United States of America
+HTZ,Hertz Global Holdings Inc,Common Stock,4.79,$712.84M,9779,Industrials,Road & Rail,Trucking,United States of America
+ATUS,Altice usa inc,Common Stock,21.91,$14.11B,9760.859,Communication Services,Media,Cable & Satellite,United States of America
+NWSA,News Corp,Common Stock,8.18,$4.82B,9749,Communication Services,Media,Publishing,United States of America
+NWS,News Corp,Common Stock,8.23,$4.81B,9749,Communication Services,Media,Publishing,United States of America
+NEM,Newmont Corporation,Common Stock,47.15,$38.97B,9740,Materials,Metals & Mining,Gold,United States of America
+LNG,Cheniere Energy Inc.,Common Stock,32.2,$8.60B,9730,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+BERY,Berry Global Group Inc,Common Stock,32.25,$4.48B,9722,Materials,Containers & Packaging,Metal & Glass Containers,United States of America
+NWL,Newell Brands Inc,Common Stock,11.99,$5.11B,9714.9,Consumer Discretionary,Household Durables,Housewares & Specialties,United States of America
+AAP,Advance Auto Parts Inc.,Common Stock,84.65,$6.12B,9709.003,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+PXD,Pioneer Natural Resources Co,Common Stock,74.68,$12.44B,9671,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,United States of America
+EQH,Equitable Holdings Inc,Common Stock,13.02,$6.21B,9591,Financials,Diversified Financial Services,Other Diversified Financial Services,United States of America
+LRCX,Lam Research Corp,Common Stock,218.15,$31.42B,9549.442,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,United States of America
+MKL,Markel Corp,Common Stock,867.3,$12.54B,9521.823,Financials,Insurance,Property & Casualty Insurance,United States of America
+HRL,Hormel Foods Corp,Common Stock,48.38,$25.57B,9521.396,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+HLT,Hilton Worldwide Holdings Inc,Common Stock,55.94,$16.14B,9452,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",United States of America
+URI,United Rentals Inc.,Common Stock,91.07,$7.15B,9351,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,United States of America
+DK,Delek US Holdings Inc,Common Stock,15.51,$1.13B,9298.2,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,United States of America
+UNVR,Univar Inc,Common Stock,9.59,$1.67B,9286.9,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,United States of America
+EMN,Eastman Chemical Co,Common Stock,45.09,$6.17B,9273,Materials,Chemicals,Diversified Chemicals,United States of America
+OMI,Owens & Minor Inc.,Common Stock,6.78,$470.07M,9210.939,Health Care,Health Care Providers & Services,Health Care Distributors,United States of America
+EME,EMCOR Group Inc.,Common Stock,56.07,$3.30B,9174.611,Industrials,Construction & Engineering,Construction & Engineering,United States of America
+CAR,Avis Budget Group Inc,Common Stock,10.58,$832.11M,9172,Industrials,Road & Rail,Trucking,United States of America
+JBHT,J.B. Hunt Transport Services Inc.,Common Stock,89.76,$9.65B,9165.258,Industrials,Road & Rail,Trucking,United States of America
+KKR,KKR & Co Inc,Common Stock,22.22,$12.30B,9143.111,Financials,Capital Markets,Asset Management & Custody Banks,United States of America
+W,Wayfair Inc,Common Stock,50.63,$4.42B,9127.057,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,United States of America
+XRX,Xerox Holdings Corp,Common Stock,16.9,$3.93B,9066,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",United States of America
+AGCO,AGCO Corp,Common Stock,43.5,$3.37B,9041.4,Industrials,Machinery,Agricultural & Farm Machinery,United States of America
+Y,Alleghany Corp,Common Stock,500.01,$7.61B,9025.716,Financials,Insurance,Reinsurance,United States of America
+THO,Thor Industries Inc.,Common Stock,36.16,$2.14B,8980.124,Consumer Discretionary,Automobiles,Automobile Manufacturers,United States of America
+APD,Air Products and Chemicals Inc.,Common Stock,186.6,$42.92B,8949.6,Materials,Chemicals,Industrial Gases,United States of America
+R,Ryder System Inc,Common Stock,22.93,$1.28B,8925.801,Industrials,Road & Rail,Trucking,United States of America
+MOS,Mosaic Company (The),Common Stock,9.94,$3.72B,8906.3,Materials,Chemicals,Fertilizers & Agricultural Chemicals,United States of America
+FITB,Fifth Third Bancorp,Common Stock,13.43,$10.12B,8900,Financials,Banks,Regional Banks,United States of America
+HII,Huntington Ingalls Industries Inc,Common Stock,181.04,$7.37B,8899,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+AXE,Anixter International Inc,Common Stock,87.94,$3.02B,8845.6,Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,United States of America
+ALK,Alaska Air Group Inc.,Common Stock,24.69,$3.03B,8781,Industrials,Airlines,Airlines,United States of America
+DRI,Darden Restaurants Inc.,Common Stock,45.48,$5.35B,8765.9,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,United States of America
+MPLX,MPLX LP,Unit Trust Fund,11.77,$12.47B,8751,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+CWK,Cushman & Wakefield Ltd,Common Stock,9.36,$2.14B,8751,Real Estate,Real Estate Management & Development,Real Estate Services,United States of America
+DKS,Dick's Sporting Goods Inc.,Common Stock,18.32,$1.57B,8750.743,Consumer Discretionary,Specialty Retail,Specialty Stores,United States of America
+CZR,Caesars Entertainment Corp,Common Stock,6.28,$4.10B,8742,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,United States of America
+IEP,Icahn Enterprises LP,Unit Trust Fund,45.44,$10.26B,8720,Industrials,Industrial Conglomerates,Industrial Conglomerates,United States of America
+TRGP,Targa Resources Corp,Common Stock,6.33,$1.47B,8671.1,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+DAN,Dana Inc,Common Stock,6.86,$1.04B,8620,Consumer Discretionary,Auto Components,Auto Parts & Equipment,United States of America
+SPTN,SpartanNash Co,Common Stock,13.95,$523.09M,8536.065,Consumer Staples,Food & Staples Retailing,Food Distributors,United States of America
+ES,Eversource Energy,Common Stock,75.06,$26.16B,8526.47,Utilities,Electric Utilities,Electric Utilities,United States of America
+CHK,Chesapeake Energy Corp,Common Stock,0.1744,$327.68M,8489,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,United States of America
+NOV,National Oilwell Varco Inc,Common Stock,9.85,$3.88B,8479,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,United States of America
+FNF,Fidelity National Financial Inc FNF Group,Common Stock,23.25,$6.62B,8477,Financials,Insurance,Property & Casualty Insurance,United States of America
+CASY,Casey's General Stores Inc.,Common Stock,120.57,$4.64B,8470.449,Consumer Staples,Food & Staples Retailing,Food Retail,United States of America
+COTY,Coty Inc,Common Stock,4.6,$3.39B,8393.8,Consumer Staples,Personal Products,Personal Products,United States of America
+WCC,WESCO International Inc,Common Stock,21.47,$950.88M,8358.917,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,United States of America
+TSCO,Tractor Supply Co,Common Stock,79.5,$9.94B,8351.931,Consumer Discretionary,Specialty Retail,Specialty Stores,United States of America
+COMM,CommScope Holding Co Inc,Common Stock,8.53,$1.69B,8345.1,Information Technology,Communications Equipment,Communications Equipment,United States of America
+WAB,Wabtec Corp,Common Stock,44.06,$8.40B,8323,Industrials,Machinery,Construction Machinery & Heavy Trucks,United States of America
+FTR,Frontier Communications Corp,Common Stock,0.36245,$37.93M,8289,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,United States of America
+OSK,Oshkosh Corp,Common Stock,62.08,$4.36B,8273.7,Industrials,Machinery,Construction Machinery & Heavy Trucks,United States of America
+STZ,Constellation Brands Inc,Common Stock,132.17,$25.04B,8237.8,Consumer Staples,Beverages,Distillers & Vintners,United States of America
+STZ/B,Constellation Brands Inc,Common Stock,129,$24.62B,8237.8,Consumer Staples,Beverages,Distillers & Vintners,United States of America
+APH,Amphenol Corp,Common Stock,68.42,$20.48B,8225.4,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Components,United States of America
+WMB,Williams Cos Inc. (The),Common Stock,13.65,$17.43B,8201,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+EXPD,Expeditors International of Washington Inc.,Common Stock,67.1,$11.48B,8175.426,Industrials,Air Freight & Logistics,Air Freight & Logistics,United States of America
+ANDE,Andersons Inc (The),Common Stock,17.12,$564.16M,8170.191,Consumer Staples,Food & Staples Retailing,Food Distributors,United States of America
+WLK,Westlake Chemical Corp,Common Stock,35.12,$4.52B,8118,Materials,Chemicals,Commodity Chemicals,United States of America
+JBLU,JetBlue Airways Corp,Common Stock,7.48,$2.15B,8094,Industrials,Airlines,Airlines,United States of America
+GNW,Genworth Financial Inc,Common Stock,3.33,$1.71B,8093,Financials,Insurance,Life & Health Insurance,United States of America
+AFG,American Financial Group Inc,Common Stock,64.09,$5.99B,8083,Financials,Insurance,Multi-line Insurance,United States of America
+RJF,Raymond James Financial Inc.,Common Stock,57.53,$8.33B,8079,Financials,Capital Markets,Investment Banking & Brokerage,United States of America
+CPB,Campbell Soup Co,Common Stock,49.53,$14.33B,8078,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+CFG,Citizens Financial Group Inc,Common Stock,16.94,$7.54B,8066,Financials,Banks,Regional Banks,United States of America
+FL,Foot Locker Inc.,Common Stock,18.32,$2.10B,8005,Consumer Discretionary,Specialty Retail,Apparel Retail,United States of America
+HSY,Hershey Co (The),Common Stock,139.77,$28.34B,7986.252,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+ZBH,Zimmer Biomet Holdings Inc,Common Stock,92.01,$19.10B,7982.2,Health Care,Health Care Equipment & Supplies,Health Care Equipment,United States of America
+CINF,Cincinnati Financial Corp,Common Stock,71.03,$11.88B,7924,Financials,Insurance,Property & Casualty Insurance,United States of America
+SC,Santander Consumer USA Holdings Inc,Common Stock,11.87,$4.35B,7905.224,Financials,Consumer Finance,Consumer Finance,United States of America
+MSI,Motorola Solutions Inc,Common Stock,126.62,$22.23B,7887,Information Technology,Communications Equipment,Communications Equipment,United States of America
+SANM,Sanmina Corp,Common Stock,23.66,$1.70B,7886.012,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,United States of America
+REGN,Regeneron Pharmaceuticals Inc,Common Stock,493.32,$55.00B,7863.4,Health Care,Biotechnology,Biotechnology,United States of America
+SPR,Spirit Aerosystems Holdings Inc,Common Stock,18.43,$1.96B,7863.1,Industrials,Aerospace & Defense,Aerospace & Defense,United States of America
+WRB,Berkley (W.R.) Corp,Common Stock,49.48,$9.30B,7833.002,Financials,Insurance,Property & Casualty Insurance,United States of America
+SIRI,Sirius XM Holdings Inc,Common Stock,4.48,$20.96B,7794,Communication Services,Media,Cable & Satellite,United States of America
+PPL,PPL Corp,Common Stock,21.77,$17.62B,7769,Utilities,Electric Utilities,Electric Utilities,United States of America
+NSIT,Insight Enterprises Inc,Common Stock,39.3,$1.43B,7731.19,Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,United States of America
+DGX,Quest Diagnostics Inc,Common Stock,73.34,$10.30B,7726,Health Care,Health Care Providers & Services,Health Care Services,United States of America
+KEY,KeyCorp,Common Stock,9.07,$9.26B,7694,Financials,Banks,Regional Banks,United States of America
+VRTV,Veritiv Corp,Common Stock,7.58,$130.73M,7659.4,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,United States of America
+DCP,DCP Midstream LP,Unit Trust Fund,4.62,$952.07M,7638,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+SJM,J.M. Smucker Co (The),Common Stock,112.33,$12.57B,7611.1,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+AMT,American Tower Corp,Common Stock (REIT),222.8,$97.77B,7580.3,Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,United States of America
+WEC,WEC Energy Group Inc,Common Stock,85.25,$27.76B,7523.1,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+VOYA,Voya Financial Inc,Common Stock,36.97,$4.96B,7476,Financials,Diversified Financial Services,Other Diversified Financial Services,United States of America
+ARNC,Arconic Corp,Common Stock,6.2,--,7442,Materials,Metals & Mining,Aluminum,United States of America
+NVR,NVR Inc.,Common Stock,2362.94,$8.61B,7428.442,Consumer Discretionary,Household Durables,Homebuilding,United States of America
+ULTA,Ulta Beauty Inc,Common Stock,156.74,$9.13B,7398.068,Consumer Discretionary,Specialty Retail,Specialty Stores,United States of America
+TOL,Toll Brothers Inc.,Common Stock,17.85,$2.25B,7388.281,Consumer Discretionary,Household Durables,Homebuilding,United States of America
+BX,Blackstone Group Inc,Common Stock,41.74,$27.64B,7338.27,Financials,Capital Markets,Asset Management & Custody Banks,United States of America
+FTV,Fortive Corp,Common Stock,54.28,$18.82B,7320,Industrials,Machinery,Industrial Machinery,United States of America
+BURL,Burlington Stores Inc,Common Stock,140.56,$9.59B,7286.398,Consumer Discretionary,Specialty Retail,Apparel Retail,United States of America
+SCCO,Southern Copper Corp,Common Stock,26.8,$21.14B,7285.6,Materials,Metals & Mining,Copper,United States of America
+BLDR,Builders FirstSource Inc,Common Stock,10.92,$1.34B,7280.431,Industrials,Building Products,Building Products,United States of America
+BAH,Booz Allen Hamilton Holding Corp,Common Stock,70.06,$9.89B,7274.274,Information Technology,IT Services,IT Consulting & Other Services,United States of America
+CTAS,Cintas Corp,Common Stock,164.23,$17.18B,7259.266,Industrials,Commercial Services & Supplies,Diversified Support Services,United States of America
+LSXMA,Liberty Media Corp SiriusXM Group,Common Stock,27.1,$9.56B,7228,Communication Services,Entertainment,Movies & Entertainment,United States of America
+LSXMB,Liberty Media Corp SiriusXM Group,Common Stock,31,$9.82B,7228,Communication Services,Media,Cable & Satellite,United States of America
+LSXMK,Liberty Media Corp SiriusXM Group,Common Stock,27.25,$9.50B,7228,Communication Services,Entertainment,Movies & Entertainment,United States of America
+ORI,Old Republic International Corp,Common Stock,14.01,$4.39B,7213.7,Financials,Insurance,Property & Casualty Insurance,United States of America
+ABG,Asbury Automotive Group Inc,Common Stock,42.1,$906.16M,7210.3,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+AJG,Arthur J. Gallagher & Co.,Common Stock,76.26,$14.82B,7195,Financials,Insurance,Insurance Brokers,United States of America
+MTZ,MasTec Inc.,Common Stock,30.41,$2.36B,7183.188,Industrials,Construction & Engineering,Construction & Engineering,United States of America
+OC,Owens Corning,Common Stock,34.98,$4.00B,7160,Industrials,Building Products,Building Products,United States of America
+MGLN,Magellan Health Inc,Common Stock,41.73,$1.08B,7159.423,Health Care,Health Care Providers & Services,Managed Health Care,United States of America
+DOV,Dover Corp,Common Stock,77.36,$11.63B,7136.397,Industrials,Machinery,Industrial Machinery,United States of America
+INTU,Intuit Inc.,Common Stock,218.39,$58.67B,7127,Information Technology,Software,Application Software,United States of America
+UGI,UGI Corp,Common Stock,25,$5.45B,7126.8,Utilities,Gas Utilities,Gas Utilities,United States of America
+AVY,Avery Dennison Corp,Common Stock,93.61,$7.99B,7070.1,Materials,Containers & Packaging,Paper Packaging,United States of America
+BECN,Beacon Roofing Supply Inc,Common Stock,13.31,$1.03B,7058.596,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,United States of America
+HBI,Hanesbrands Inc,Common Stock,7.17,$2.63B,6966.923,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",United States of America
+PKG,Packaging Corp Of America,Common Stock,80.51,$7.95B,6964.3,Materials,Containers & Packaging,Paper Packaging,United States of America
+MTB,M&T Bank Corp,Common Stock,91.67,$12.50B,6941.272,Financials,Banks,Regional Banks,United States of America
+NCR,NCR Corp,Common Stock,18.19,$2.34B,6915,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",United States of America
+NTRS,Northern Trust Corp,Common Stock,77.03,$16.13B,6895.1,Financials,Capital Markets,Asset Management & Custody Banks,United States of America
+CMS,CMS Energy Corp,Common Stock,54.55,$16.14B,6845,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+SEB,Seaboard Corp,Common Stock,2744.36,$3.18B,6840,Consumer Staples,Food Products,Packaged Foods & Meats,United States of America
+CQP,Cheniere Energy Partners LP,Unit Trust Fund,27.55,$13.55B,6838,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+HUN,Huntsman Corp,Common Stock,12.93,$2.98B,6797,Materials,Chemicals,Diversified Chemicals,United States of America
+PII,Polaris Inc,Common Stock,39,$2.75B,6782.518,Consumer Discretionary,Leisure Products,Leisure Products,United States of America
+RF,Regions Financial Corp,Common Stock,8.07,$8.03B,6755,Financials,Banks,Regional Banks,United States of America
+ROK,Rockwell Automation Inc.,Common Stock,146.78,$17.39B,6737,Industrials,Electrical Equipment,Electrical Components & Equipment,United States of America
+AMD,Advanced Micro Devices Inc,Common Stock,42.59,$52.05B,6731,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,United States of America
+OVV,Ovintiv Inc,Common Stock,3.43,$820.97M,6726,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,United States of America
+MAS,Masco Corp,Common Stock,32.41,$9.10B,6707,Industrials,Building Products,Building Products,United States of America
+OI,O-I Glass Inc,Common Stock,5.62,$1.07B,6703,Materials,Containers & Packaging,Metal & Glass Containers,United States of America
+SPGI,S&P Global Inc,Common Stock,238.8,$58.89B,6699,Financials,Capital Markets,Financial Exchanges & Data,United States of America
+WYNN,Wynn Resorts Ltd,Common Stock,48.44,$5.65B,6611.099,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,United States of America
+WY,Weyerhaeuser Co,Common Stock (REIT),15.34,$11.81B,6554,Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,United States of America
+BHF,Brighthouse Financial Inc,Common Stock,19.63,$2.16B,6554,Financials,Insurance,Life & Health Insurance,United States of America
+ICE,Intercontinental Exchange Inc,Common Stock,80.99,$44.95B,6547,Financials,Capital Markets,Financial Exchanges & Data,United States of America
+AXL,American Axle & Manufacturing Holdings Inc,Common Stock,2.74,$363.70M,6530.9,Consumer Discretionary,Auto Components,Auto Parts & Equipment,United States of America
+ABM,ABM Industries Inc,Common Stock,22.78,$1.62B,6503.6,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,United States of America
+HES,Hess Corp,Common Stock,33.52,$10.76B,6495,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,United States of America
+ATVI,Activision Blizzard Inc,Common Stock,59.98,$46.73B,6489,Communication Services,Entertainment,Interactive Home Entertainment,United States of America
+GME,GameStop Corp.,Common Stock,2.8,$183.26M,6466,Consumer Discretionary,Specialty Retail,Computer & Electronics Retail,United States of America
+NCLH,Norwegian Cruise Line Holdings Ltd,Common Stock,8.46,$1.79B,6462.376,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",United States of America
+RL,Ralph Lauren Corp,Common Stock,61,$4.86B,6391.4,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",United States of America
+SAIC,Science Applications International Corp,Common Stock,71.3,$4.28B,6379,Information Technology,IT Services,IT Consulting & Other Services,United States of America
+CVI,CVR Energy Inc,Common Stock,14.28,$1.46B,6364,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,United States of America
+DDS,Dillard's Inc.,Common Stock,23.87,$600.21M,6347.9,Consumer Discretionary,Multiline Retail,Department Stores,United States of America
+AGR,Avangrid Inc,Common Stock,39.89,$13.11B,6338,Utilities,Electric Utilities,Electric Utilities,United States of America
+CE,Celanese Corp,Common Stock,67.1,$8.20B,6297,Materials,Chemicals,Specialty Chemicals,United States of America
+APA,Apache Corp,Common Stock,5.38,$1.76B,6280,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,United States of America
+RRD,R.R. Donnelley & Sons Co,Common Stock,0.9198,$71.61M,6276.2,Industrials,Commercial Services & Supplies,Commercial Printing,United States of America
+ZTS,Zoetis Inc,Common Stock,114.61,$55.18B,6276,Health Care,Pharmaceuticals,Pharmaceuticals,United States of America
+DVN,Devon Energy Corp,Common Stock,8.38,$2.98B,6220,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,United States of America
+INGR,Ingredion Inc,Common Stock,76.21,$5.15B,6209,Consumer Staples,Food Products,Agricultural Products,United States of America
+HDS,HD Supply Holdings Inc,Common Stock,25.68,$4.27B,6207,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,United States of America
+FAF,First American Financial Corp,Common Stock,39.81,$4.62B,6202.061,Financials,Insurance,Property & Casualty Insurance,United States of America
+GPK,Graphic Packaging Holding Co,Common Stock,11.4,$3.54B,6160.1,Materials,Containers & Packaging,Paper Packaging,United States of America
+CLX,Clorox Co (The),Common Stock,177.54,$22.47B,6133,Consumer Staples,Household Products,Household Products,United States of America
+SPG,Simon Property Group Inc.,Common Stock (REIT),46.72,$13.51B,6121.038,Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,United States of America
+IVZ,Invesco Ltd,Common Stock,7.81,$3.73B,6117.4,Financials,Capital Markets,Asset Management & Custody Banks,United States of America
+TA,TravelCenters Of America Inc,Common Stock,7.99,$72.52M,6117.359,Consumer Discretionary,Specialty Retail,Automotive Retail,United States of America
+OLN,Olin Corp,Common Stock,11.61,$1.80B,6110,Materials,Chemicals,Commodity Chemicals,United States of America
+RHI,Robert Half International Inc.,Common Stock,37.97,$4.35B,6074.432,Industrials,Professional Services,Human Resource & Employment Services,United States of America
+ENLC,Enlink Midstream LLC,Unit Trust Fund,1.09,$526.82M,6052.9,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,United States of America
+AVTR,Avantor Inc,Common Stock,12.18,$7.08B,6040.3,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,United States of America
+TPR,Tapestry Inc,Common Stock,11.09,$3.04B,6019,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",United States of America
+AEE,Ameren Corp,Common Stock,68.75,$17.65B,5910,Utilities,Multi-Utilities,Multi-Utilities,United States of America
+WSM,Williams-Sonoma Inc.,Common Stock,38.19,$2.94B,5898.008,Consumer Discretionary,Specialty Retail,Homefurnishing Retail,United States of America
+CMC,Commercial Metals Co,Common Stock,14.63,$1.87B,5874.548,Materials,Metals & Mining,Steel,United States of America
+RUSHA,Rush Enterprises Inc,Common Stock,28.93,$1.08B,5809.847,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,United States of America
+RUSHB,Rush Enterprises Inc,Common Stock,26.5,$1.02B,5809.847,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,United States of America
+AMTD,TD AMERITRADE Holding Corp,Common Stock,34.81,$19.25B,5791,Financials,Capital Markets,Investment Banking & Brokerage,United States of America
